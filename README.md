@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480"/>
+  <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="480" height="480"/>
 </div>
-
 
 <!--
 **Nazarovina/Nazarovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
