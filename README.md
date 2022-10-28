@@ -1,4 +1,5 @@
-### Hi there 👋
+<div id="header" align="center">
+<iframe src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5">via GIPHY</a></p>
 
 <!--
 **Nazarovina/Nazarovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
