@@ -16,7 +16,7 @@
 
 ---
 
-I am a beginner Front-end Developer
+<div align="center">🌱 I am a beginner Front-end Developer 🌱</div>
 
 
 ---
