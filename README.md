@@ -1,12 +1,15 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="280" height="280"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/krystyna-nazarova-7131b2215/ align="center"">
+<div align="center">
+  <a href="https://www.linkedin.com/in/krystyna-nazarova-7131b2215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :woman_technologist: About Me : 
