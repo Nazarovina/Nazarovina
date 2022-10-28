@@ -8,6 +8,16 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
+
+### :woman_technologist: About Me : I am a beginner Front-end Developer
+
+<!-- вставка картинки по центру
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+--->
+
+
 <!--
 **Nazarovina/Nazarovina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
