@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<div align="center" margin-top="30px">
+<div align="center" margin-top="130px">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
