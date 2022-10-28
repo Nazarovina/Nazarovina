@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" width="280" height="280"/>
 </div>
 
-<div align="center" margin-top="30px">
+<div align="center">
   <a href="https://www.linkedin.com/in/krystyna-nazarova-7131b2215/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<div align="center" margin="130px">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
